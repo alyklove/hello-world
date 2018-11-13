@@ -1,5 +1,6 @@
 # hello-world
-My first repository 
+#### My First Repository 
 
-I like to eat Jimmy Johns and Thankgiving dinners. 
-I've never been able to do a good cartwheel. 
+I like to _eat_ [**Jimmy Johns**] and Thankgiving dinners. :poultry_leg: 
+I've **never** been able to _do_ a good cartwheel. :shipit: 
+[(https://online.jimmyjohns.com/#/login)]  
