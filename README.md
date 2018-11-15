@@ -22,6 +22,7 @@ This year for Thanksgiving make sure to:
 - [x] Make all the food
 - [ ] Be thankful
 - [ ] Hang with the family 
+- [ ] Eat pie
 
 
 ![hello](https://s.hswstatic.com/gif/thanksgiving-orig.jpg)
